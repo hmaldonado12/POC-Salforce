@@ -1,0 +1,11 @@
+{
+  "orgName": "My Salesforce Project",
+  "edition": "Developer",
+  "features": ["AuthorApex", "LightningWebComponents"],
+  "settings": {
+    "orgPreferenceSettings": {
+      "s1DesktopEnabled": true,
+      "s1EncryptedStorageEnabled": true
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "my-salesforce-project",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "sfdx force:source:convert -d mdapioutput",
+    "test": "sfdx force:apex:test:run --resultformat human --wait 10",
+    "lint": "eslint force-app/main/default/lwc"
+  },
+  "dependencies": {
+    "salesforce-alm": "^52.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
