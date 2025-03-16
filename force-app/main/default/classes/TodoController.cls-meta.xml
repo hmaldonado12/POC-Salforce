@@ -1,7 +1,5 @@
-Sure, here's the content for the file `/my-salesforce-project/my-salesforce-project/force-app/main/default/classes/TodoController.cls-meta.xml`:
-
 <?xml version="1.0" encoding="UTF-8"?>
-<MetaData xmlns="http://soap.sforce.com/2006/04/metadata">
-    <apiVersion>57.0</apiVersion>
+<ApexClass xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apiVersion>52.0</apiVersion>
     <status>Active</status>
-</MetaData>
+</ApexClass>
